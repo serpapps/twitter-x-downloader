@@ -1,105 +1,168 @@
-# SERP Twitter X Downloader
+# Twitter X Downloader (Browser Extension)
 
-**Download videos, images, and post text from X (Twitter) — one click, no software required.**
+> Download videos, images, and post text from X in one browser workflow.
 
-SERP Twitter X Downloader is a browser extension that makes saving media from X (Twitter) effortless. Browse any feed, profile, or thread on X.com, click the extension icon, and instantly see every video, image, and text post on the page. Download items one at a time or grab everything at once with bulk download. Videos save as MP4, images as JPG or PNG, and post text as TXT. Works on Chrome, Edge, Brave, Opera, Firefox, and more. Includes 3 free downloads to get started.
+Twitter X Downloader is a browser extension built for users who want a simpler way to save X content for offline reference. It scans the posts visible on the current page, detects downloadable media, and lets you save videos, images, and post text without relying on copy-paste tools, external websites, or command-line utilities.
 
-**Product page:** [https://serp.ly/twitter-x-downloader](https://serp.ly/twitter-x-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/twitter-x-downloader/releases/latest](https://github.com/serpapps/twitter-x-downloader/releases/latest)
+- Save X videos as MP4 files for offline viewing
+- Download post images in their available source format
+- Export post text for notes, research, or archiving
+- Bulk-download visible content from the current page
+- Organize saved files for easier local reference
 
----
+## Links
 
-## Why SERP Twitter X Downloader?
+- 🚀 Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/twitter-x-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/twitter-x-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/twitter-x-downloader/issues)
 
-X does not offer a built-in way to save videos. Copying links and pasting them into random websites is slow, unreliable, and often fails. Desktop apps and command-line tools are overkill for most people. SERP Twitter X Downloader lives right in your browser and handles everything automatically. It detects media from multiple sources on the page, so it catches videos and images that other tools miss entirely. No URL pasting, no extra software, no hassle.
+## Preview
 
-## Key Features
+![Twitter X Downloader workflow preview](assets/workflow-preview.svg)
 
-- **Multi-source video detection** — finds every video on the page, even ones buried in dynamic content that other tools overlook
-- **Tabbed media browser** — switch between Videos, Images, and Text tabs with real-time counts for each category
-- **Bulk download** — hit "Download Visible" to save all items in the active tab at once
-- **Inline overlay buttons** — download buttons appear directly on videos and images in the feed, so you can save without opening the popup
-- **Best quality by default** — automatically selects the highest available quality for every video
-- **Smart file organization** — downloads save to a dedicated Twitter X Downloader folder, sorted by source and title
-- **Dark UI** — matches the X platform design language for a seamless look
+## Table of Contents
+
+- [Why Twitter X Downloader](#why-twitter-x-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Content from X](#step-by-step-tutorial-how-to-download-content-from-x)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About X](#about-x)
+
+## Why Twitter X Downloader
+
+X does not provide a clean export flow for mixed post assets like video, images, and text. Videos are streamed, image sets are mixed into dynamic layouts, and copying post text manually is tedious if you are building a clean local archive or research folder.
+
+Twitter X Downloader is built for that exact workflow. It scans visible X posts, groups the detected media, and gives you a direct way to save useful content from the current page in a more organized format.
+
+## Features
+
+- Video detection for X feed posts, profiles, and threads
+- Image detection for visible post media
+- Post text export for visible posts on the page
+- Bulk-download workflow for all visible content in the current view
+- Overlay buttons for faster in-feed downloads
+- MP4 video saving where X exposes downloadable video streams
+- Source-format image saving where available
+- TXT export for post text
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
 ## How It Works
 
-1. **Install** — Add SERP Twitter X Downloader to your browser from the product page or GitHub releases.
-2. **Browse** — Go to X.com and scroll through any feed, profile page, or conversation thread.
-3. **Scan** — Click the extension icon. The popup instantly shows all detected videos, images, and text posts on the page.
-4. **Download** — Pick individual items or click "Download Visible" to save everything at once. Done.
+1. Install the extension from the latest release.
+2. Open X and go to a feed, profile, or thread.
+3. Scroll until the posts you want are visible on the page.
+4. Open the extension popup to review detected videos, images, and text.
+5. Download individual items or use the bulk option for everything visible.
+6. Save the exported files locally for offline access.
+
+## Step-by-Step Tutorial: How to Download Content from X
+
+1. Install Twitter X Downloader from the latest GitHub release.
+2. Sign in to X if the posts you want require login to view.
+3. Open the feed, profile, or thread you want to save from.
+4. Scroll until the target posts and media are visible on the page.
+5. Click the extension button to scan the current view.
+6. Review the detected videos, images, and text entries.
+7. Download individual items or run a bulk download for everything visible.
+8. Open the saved files from your Downloads folder.
 
 ## Supported Formats
 
-| Media type | Saved as |
-|---|---|
-| Videos | MP4 |
-| Images | JPG, PNG |
-| Post text | TXT |
+- Video: MP4
+- Images: JPG, PNG, and other source formats where available
+- Text: TXT
 
-Videos are saved at the best available quality. Images are saved at their original resolution.
+Saved text exports are designed for cleaner offline reference and note-taking.
 
 ## Who It's For
 
-- **Casual X users** who want to save a funny video or memorable post for later
-- **Content creators** who need to archive their own posts and media
-- **Researchers and journalists** collecting public posts for reference
-- **Social media managers** curating content across platforms
-- **Anyone** who has ever right-clicked a video on X and wished there was a download button
+- X users saving posts for offline reference
+- Content creators archiving their own media and post text
+- Researchers, journalists, and analysts collecting public posts
+- Social media managers curating examples or campaign material
+- Anyone who wants a browser-based workflow instead of using third-party download sites
 
 ## Common Use Cases
 
-- Save a video from an X post to watch offline
-- Download all images from a photo thread in bulk
-- Archive post text as a plain text file for reference
-- Grab every piece of media from a profile page in seconds
-- Use overlay buttons to quickly save videos and images without opening the popup
+- Save a video from an X post for offline viewing
+- Download all images from a post or thread
+- Export post text into plain text files for research or notes
+- Bulk-download visible content from a profile page
+- Archive your own media and posts into a local folder
+
+## Troubleshooting
+
+**The extension is not finding a post video**  
+Make sure the post is fully visible and the video has loaded on the page before scanning.
+
+**The image you want is missing**  
+Scroll the post into full view and rescan. The extension only captures media that is currently visible.
+
+**The bulk download missed some posts**  
+Scroll further so more posts load, then scan again. X uses dynamic page loading, so not every post is present at once.
+
+**The text export looks incomplete**  
+Expand long posts before scanning so the full text is visible in the browser.
+
+**The post requires login or restricted access**  
+The extension only works on content you can already access in your current X session.
 
 ## Trial & Access
 
-SERP Twitter X Downloader includes **3 free downloads** so you can try it before you buy. Just sign in with your email — no credit card required. When you are ready for unlimited downloads, pick up a license from the product page.
+- Includes **3 free downloads** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited downloads are available with a paid license
+
+Start here: [https://serp.ly/twitter-x-downloader](https://serp.ly/twitter-x-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/twitter-x-downloader/releases/latest](https://github.com/serpapps/twitter-x-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install the extension.
+4. Open X and navigate to a feed, profile, or thread.
+5. Use the extension popup to scan and download visible content.
 
 ## FAQ
 
-**How do I download a video from X?**
-Go to any page on X.com, click the extension icon, and switch to the Videos tab. Click Download on the video you want, or use "Download Visible" to get them all.
+**What kinds of content can I download from X?**  
+Videos, images, and post text from supported X pages.
 
-**Can I download images too?**
-Yes. The extension detects images from X posts. Switch to the Images tab in the popup to browse and download them.
+**What file formats are used?**  
+Videos are saved as MP4, images are saved in the source format when available, and post text is exported as TXT.
 
-**What about post text?**
-Yes. Switch to the Text tab to see extracted post content. Downloading saves it as a TXT file.
+**Can I bulk-download everything visible?**  
+Yes. The extension supports bulk export for content currently visible on the page.
 
-**What quality are the videos?**
-The extension detects all available quality options and automatically picks the best one. Videos save as standard MP4 files that play on any device.
+**Do I need to use an external website or bot?**  
+No. Everything runs directly in the browser extension.
 
-**Where do my downloads go?**
-Media saves to a "Twitter X Downloader" subfolder inside your browser's default Downloads directory, organized by source and title.
+**Where are files saved?**  
+They are saved to your default Downloads location.
 
-**How many free downloads do I get?**
-3 free trial downloads after signing in with your email. Purchase a license for unlimited downloads.
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
 
-**Which browsers are supported?**
-Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+## Notes
 
-**The extension is not finding my video. What do I do?**
-Scroll the post into view so the video loads on the page, then click the Rescan button. The extension needs the media to be visible on the page.
+- Only download content you own or have explicit permission to save
+- The extension only captures content currently visible on the page
+- Scroll to load more posts before scanning if you want a larger batch
+- Video quality depends on the streams X exposes for that post
+- Respect platform rules and the rights of original content owners
 
-**Is my data safe?**
-Yes. All processing happens locally in your browser. Nothing is uploaded to external servers.
+## About X
 
-## Notes (Important)
-
-- Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you own or have permission to download.
-- Media must be visible on the page for the extension to detect it. Scroll posts into view before scanning.
-- Video quality depends on what X makes available for each post.
-- An internet connection is required for the extension to function.
-- Sign-in uses a secure one-time passcode sent to your email — no passwords are stored.
-
----
-
-## Get It
-
-**[SERP Twitter X Downloader](https://serp.cc/VDM-twitter-x-downloader)** — 3 free downloads included. No credit card required.
+X is a social platform built around short posts, media sharing, live conversations, and trending content. While it is designed for fast browser and mobile consumption, it does not provide a simple native workflow for exporting mixed post assets like video, images, and text together. Twitter X Downloader simplifies that process for users who need a cleaner local archive workflow.
