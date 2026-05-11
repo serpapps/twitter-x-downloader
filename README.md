@@ -20,7 +20,9 @@ Twitter X Downloader is a browser extension built for users who want a simpler w
 
 ## Preview
 
-![Twitter X Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=JGbEs9Fp2zg" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/twitter-x-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
