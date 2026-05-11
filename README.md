@@ -10,6 +10,12 @@ Twitter X Downloader is a browser extension built for users who want a simpler w
 - Bulk-download visible content from the current page
 - Organize saved files for easier local reference
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=JGbEs9Fp2zg" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/twitter-x-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader)
@@ -20,7 +26,7 @@ Twitter X Downloader is a browser extension built for users who want a simpler w
 
 ## Preview
 
-![Twitter X Downloader workflow preview](assets/workflow-preview.webp)
+![Twitter X Downloader workflow preview](https://raw.githubusercontent.com/serpapps/twitter-x-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
