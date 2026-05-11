@@ -1,11 +1,5 @@
 # Twitter X Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=JGbEs9Fp2zg" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/twitter-x-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 > Download videos, images, and post text from X in one browser workflow.
 
 Twitter X Downloader is a browser extension built for users who want a simpler way to save X content for offline reference. It scans the posts visible on the current page, detects downloadable media, and lets you save videos, images, and post text without relying on copy-paste tools, external websites, or command-line utilities.
