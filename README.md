@@ -1,4 +1,4 @@
-# Twitter X Downloader (Browser Extension)
+# Twitter X Video Downloader (Browser Extension)
 
 > Download videos, images, and post text from X in one browser workflow.
 
@@ -12,7 +12,7 @@ Twitter X Downloader is a browser extension built for users who want a simpler w
 
 ## Links
 
-- :rocket: Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader)
+- :rocket: Get it here: [Twitter X Downloader](https://serp.ly/twitter-x-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/twitter-x-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/twitter-x-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on content you can already access in your current X ses
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/twitter-x-downloader](https://serp.ly/twitter-x-downloader)
+Start here: [https://serp.ly/twitter-x-downloader?via=github](https://serp.ly/twitter-x-downloader?via=github)
 
 ## Installation Instructions
 
